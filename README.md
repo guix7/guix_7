@@ -1,9 +1,6 @@
 ## Bem-vindo(a) ao meu Perfil! 😁
 
-<div>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guix7_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guix7&layout=compact&langs_count=6&theme=tokyonight"/>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=gruvbox)
 </div>
 
 <div style="display: inline_block"><br>
